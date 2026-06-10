@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emiliano 👋</h1>
+<h1 align="center">Emiliano González Aguilar</h1>
 
 <p align="center">
   <em>Cybersecurity student aiming for the Red Team — learning offensive security in public.</em><br>
@@ -13,26 +13,26 @@
 
 ---
 
-## 🇬🇧 About me
+## 🇺🇸 About me
 
-I'm **Emiliano González Aguilar**, a cybersecurity student working toward a career in **offensive security / Red Team**. I'm documenting the whole journey here — labs, writeups, and tools I build along the way. I'd rather show real progress than claim expertise I don't have yet.
+I'm a cybersecurity student working toward a career in offensive security and Red Team operations. I document the whole journey here — labs, writeups, and the tools I build along the way. I'd rather show real progress than claim expertise I don't have yet.
 
-- 🎯 **Goal:** Red Team operator — pentesting, web exploitation, and AI security.
-- 📚 **Right now I'm learning:** Linux, networking, and the offensive security fundamentals.
-- 🛠️ **I build my own tooling** and write up what I learn — in English and Spanish.
-- 🌎 Based in Mexico 🇲🇽 · Writing technical content in both languages.
+- **Goal:** Red Team operator — pentesting, web exploitation, and AI security.
+- **Right now:** learning Linux, networking, and offensive security fundamentals.
+- I build my own tooling and write up what I learn, in English and Spanish.
+- Based in Mexico.
 
-## 🇪🇸 Sobre mí
+## 🇲🇽 Sobre mí
 
-Soy **Emiliano González Aguilar**, estudiante de ciberseguridad rumbo a una carrera en **seguridad ofensiva / Red Team**. Documento todo el camino aquí: laboratorios, writeups y herramientas propias. Prefiero mostrar progreso real que aparentar lo que todavía no sé.
+Soy estudiante de ciberseguridad rumbo a una carrera en seguridad ofensiva y Red Team. Documento todo el camino aquí: laboratorios, writeups y herramientas propias. Prefiero mostrar progreso real que aparentar lo que todavía no sé.
 
-- 🎯 **Meta:** ser operador de Red Team — pentesting, explotación web y seguridad en IA.
-- 📚 **Estudiando ahora:** Linux, redes y los fundamentos de seguridad ofensiva.
-- 🛠️ **Construyo mis propias herramientas** y documento lo que aprendo, en inglés y español.
+- **Meta:** ser operador de Red Team — pentesting, explotación web y seguridad en IA.
+- **Ahora:** aprendiendo Linux, redes y los fundamentos de seguridad ofensiva.
+- Construyo mis propias herramientas y documento lo que aprendo, en inglés y español.
 
 ---
 
-## 🧰 Toolbox / Herramientas
+## Toolbox
 
 ```text
 Recon / Network   nmap · wireshark · netcat · tcpdump
@@ -43,18 +43,18 @@ Forensics         binwalk · foremost
 OSINT             theHarvester
 ```
 
-## 📌 What's coming / Lo que viene
+## What's coming
 
-- 🧪 Lab writeups (DVWA, TryHackMe, retired HTB machines)
-- 🐍 My own scripts & automation tools
-- 🤖 AI security experiments (prompt injection & LLM red teaming)
-- 📝 A technical blog at [emiliano-gza.github.io](https://emiliano-gza.github.io) *(coming soon)*
+- Lab writeups (DVWA, TryHackMe, retired HTB machines)
+- My own scripts and automation tools
+- AI security experiments (prompt injection and LLM red teaming)
+- A technical blog at [emiliano-gza.github.io](https://emiliano-gza.github.io) (coming soon)
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 contobilulu@gmail.com
-- 🐙 [github.com/emiliano-gza](https://github.com/emiliano-gza)
+- contobilulu@gmail.com
+- [github.com/emiliano-gza](https://github.com/emiliano-gza)
 
-<p align="center"><sub>⚠️ Everything here is for educational purposes and authorized testing only. / Todo aquí es con fines educativos y pruebas autorizadas.</sub></p>
+<p align="center"><sub>Everything here is for educational purposes and authorized testing only. / Todo aquí es con fines educativos y pruebas autorizadas.</sub></p>
